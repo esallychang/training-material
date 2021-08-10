@@ -1,7 +1,7 @@
 ---
 layout: tutorial_hands_on
 
-title: "NGS data logistics"
+title: "BIOF521 Week 1: Intro to Galaxy and Variant Calling"
 zenodo_link: ""
 questions:
   - "How to manipulate and process NGS data"
